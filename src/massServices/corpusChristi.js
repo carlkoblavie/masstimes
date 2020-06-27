@@ -1,15 +1,5 @@
 import React from 'react'
-import {
-  Container,
-  Divider,
-  Dropdown,
-  Grid,
-  Header,
-  Image,
-  List,
-  Menu,
-  Segment,
-} from 'semantic-ui-react'
+import { Divider, Header } from 'semantic-ui-react'
 import ChurchServiceWrapper from '../churchServiceWrapper'
 export default function StRaphael() {
   return (
