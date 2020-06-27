@@ -48,6 +48,7 @@ export default class SearchChurch extends Component {
         <Grid>
           <Grid.Column width={12}>
             <Search
+              placeholder="Search for church..."
               className="church-search"
               fluid
               aligned="right"
